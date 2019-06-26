@@ -1,0 +1,16 @@
+PODS:
+  - ShareCode (0.1.0.framework)
+
+DEPENDENCIES:
+  - ShareCode (from `../ShareCode.podspec`)
+
+EXTERNAL SOURCES:
+  ShareCode:
+    :path: "../ShareCode.podspec"
+
+SPEC CHECKSUMS:
+  ShareCode: f949f793327cddde89dc556dbb4a5d5365e1060e
+
+PODFILE CHECKSUM: a44fe1f9d588dd10aa5b5ea4486f03842a116d15
+
+COCOAPODS: 1.7.2

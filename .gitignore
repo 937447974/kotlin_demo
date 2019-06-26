@@ -23,3 +23,7 @@
 hs_err_pid*
 
 app/build/**
+ShareCode/.gradle/**
+ShareCode/build/**
+*/Demo/Pods/**/*
+Demo/Pods/Manifest.lock
