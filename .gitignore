@@ -22,8 +22,7 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
-app/build/**
+
 ShareCode/.gradle/**
-ShareCode/build/**
-*/Demo/Pods/**/*
-Demo/Pods/Manifest.lock
+ShareCode/app/build/**
+Demo/Pods/**
