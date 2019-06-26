@@ -7,7 +7,7 @@ repositories {
 
 kotlin {
     targets {
-        final def iOSTarget = presets.iosArm64 // presets.iosX64
+        final def iOSTarget = presets.iosX64//iosArm64 // presets.iosX64
         fromPreset(iOSTarget, 'ios') {
             binaries {
                 framework('SharedCode')

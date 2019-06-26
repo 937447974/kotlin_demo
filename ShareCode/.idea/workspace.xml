@@ -2,111 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d5ff5ef-09c3-4430-8875-56cc3e892694" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Demo/Demo.xcodeproj/project.pbxproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo/Demo.xcodeproj/project.xcworkspace/xcuserdata/yangjun.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo/Demo.xcodeproj/xcuserdata/yangjun.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo/Demo.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo/Demo.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo/Demo.xcworkspace/xcuserdata/yangjun.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo/Demo/AppDelegate.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo/Demo/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo/Demo/Assets.xcassets/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo/Demo/Base.lproj/Main.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo/Demo/ViewController.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo/Podfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo/Podfile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo/Pods/Local Podspecs/ShareCode.podspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo/Pods/Manifest.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo/Pods/Pods.xcodeproj/project.pbxproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo/Pods/Pods.xcodeproj/xcuserdata/yangjun.xcuserdatad/xcschemes/Pods-Demo.xcscheme" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo/Pods/Pods.xcodeproj/xcuserdata/yangjun.xcuserdatad/xcschemes/ShareCode.xcscheme" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo/Pods/Target Support Files/Pods-Demo/Pods-Demo-Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo/Pods/Target Support Files/Pods-Demo/Pods-Demo-acknowledgements.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo/Pods/Target Support Files/Pods-Demo/Pods-Demo-acknowledgements.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo/Pods/Target Support Files/Pods-Demo/Pods-Demo-dummy.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo/Pods/Target Support Files/Pods-Demo/Pods-Demo-frameworks.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo/Pods/Target Support Files/Pods-Demo/Pods-Demo-umbrella.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo/Pods/Target Support Files/Pods-Demo/Pods-Demo.debug.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo/Pods/Target Support Files/Pods-Demo/Pods-Demo.modulemap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo/Pods/Target Support Files/Pods-Demo/Pods-Demo.release.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo/Pods/Target Support Files/ShareCode/ShareCode.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ShareCode.podspec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/app_android.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/bin/ios/SharedCodeDebugFramework/SharedCode.framework.dSYM/Contents/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/bin/ios/SharedCodeDebugFramework/SharedCode.framework.dSYM/Contents/Resources/DWARF/SharedCode" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/bin/ios/SharedCodeDebugFramework/SharedCode.framework/Headers/SharedCode.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/bin/ios/SharedCodeDebugFramework/SharedCode.framework/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/bin/ios/SharedCodeDebugFramework/SharedCode.framework/Modules/module.modulemap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/bin/ios/SharedCodeDebugFramework/SharedCode.framework/SharedCode" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/bin/ios/SharedCodeReleaseFramework/SharedCode.framework/Headers/SharedCode.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/bin/ios/SharedCodeReleaseFramework/SharedCode.framework/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/bin/ios/SharedCodeReleaseFramework/SharedCode.framework/Modules/module.modulemap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/bin/ios/SharedCodeReleaseFramework/SharedCode.framework/SharedCode" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/classes/kotlin/ios/main/app.klib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/classes/kotlin/metadata/main/META-INF/app.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/classes/kotlin/metadata/main/sample/Platform.kotlin_metadata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/classes/kotlin/metadata/main/sample/Proxy.kotlin_metadata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/classes/kotlin/metadata/main/sample/Sample.kotlin_metadata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/classes/kotlin/metadata/main/sample/SampleKt.kotlin_metadata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build/tmp/metadataJar/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gradle/4.7/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gradle/4.7/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules/app/kotlin_demo.app.androidMain.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/ShareCode.app.commonMain.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules/app/kotlin_demo.app.androidTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/ShareCode.app.commonTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules/app/kotlin_demo.app.commonMain.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules/app/kotlin_demo.app.commonTest.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules/app/kotlin_demo.app.iosMain.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/ShareCode.app.iosMain.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules/app/kotlin_demo.app.iosTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/ShareCode.app.iosTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.7/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/vcsWorkingDirs/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/src/commonMain/kotlin/sample/Sample.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/commonMain/kotlin/sample/Sample.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/src/commonTest/kotlin/sample/SampleTests.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/src/iosMain/kotlin/sample/SampleIos.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/iosMain/kotlin/sample/SampleIos.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/src/iosTest/kotlin/sample/SampleTestsIOS.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/src/main/java/sample/SampleAndroid.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/src/test/java/sample/SampleTestsAndroid.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iosApp/iosApp.xcodeproj/project.pbxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iosApp/iosApp.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/Demo.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iosApp/iosApp.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/Demo.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iosApp/iosApp.xcodeproj/project.xcworkspace/xcuserdata/yangjun.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iosApp/iosApp.xcodeproj/xcuserdata/yangjun.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/Pods/Pods.xcodeproj/xcuserdata/yangjun.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iosApp/iosApp/AppDelegate.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iosApp/iosApp/Base.lproj/LaunchScreen.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/Demo/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iosApp/iosApp/Base.lproj/Main.storyboard" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iosApp/iosApp/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/Demo/Info.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iosApp/iosApp/ViewController.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iosApp/iosAppTests/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../iosApp/iosAppTests/iosAppTests.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/Demo.xcworkspace/xcuserdata/yangjun.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/Demo.xcworkspace/xcuserdata/yangjun.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/Demo/ViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/Demo/ViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/commonMain/kotlin/sample/Sample.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/commonMain/kotlin/sample/Sample.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -173,8 +73,30 @@
       </state>
     </system>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ShareCode" />
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/commonMain/kotlin/sample/Sample.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -190,6 +112,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/commonMain/kotlin/sample/Sample.kt" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
       </list>
     </option>
@@ -213,6 +136,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -220,11 +144,50 @@
               <item name="ShareCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="ShareCode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
+            <path>
+              <item name="ShareCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShareCode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="ShareCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShareCode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ShareCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShareCode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="commonMain" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="ShareCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShareCode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="commonMain" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ShareCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShareCode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="commonMain" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="sample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ShareCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShareCode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -262,14 +225,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="23" width="1624" height="1027" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2528445" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49920255" visible="true" weight="0.25600505" />
+      <window_info id="Structure" order="1" sideWeight="0.50079745" side_tool="true" weight="0.25600505" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Favorites" order="6" sideWeight="0.50079745" side_tool="true" visible="true" weight="0.25600505" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -286,7 +250,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Maven" order="4" weight="0.32996207" />
-      <window_info anchor="right" id="Gradle" order="5" visible="true" weight="0.32996207" />
+      <window_info anchor="right" id="Gradle" order="5" weight="0.32996207" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
@@ -301,24 +265,10 @@
     <entry file="file://$PROJECT_DIR$/local.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/commonMain/kotlin/sample/Sample.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/iosMain/kotlin/sample/SampleIos.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="3" column="22" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -336,6 +286,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/commonMain/kotlin/sample/Sample.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
         </state>
       </provider>
     </entry>

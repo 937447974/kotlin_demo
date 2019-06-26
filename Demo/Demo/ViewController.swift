@@ -9,11 +9,25 @@
 import UIKit
 import SharedCode
 
+class Myi: MyInterface {
+    func bar() {
+        print("111")
+    }
+}
+
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print(Proxy().proxyHello())
+        let person = Person()
+        person.setListeren { (str: String) -> KotlinUnit in
+            print(str)
+            return KotlinUnit()
+        }
+        person.mListen("gogog")
+//        person.myInterface = Myi()
+//        person.myInterface.bar()
+        
     }
 
 
